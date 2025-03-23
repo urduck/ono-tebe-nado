@@ -53,7 +53,7 @@
     position: relative;
 }
 
-.blackout {
+.overlay {
     z-index: 0;
     position: absolute;
     inset: 0;
@@ -172,11 +172,11 @@
 }
 
 .book {
-    background: url(../images/card-lot-02.jpg) no-repeat / cover;
+    background: url(../images/card-lot-02.jpg) no-repeat center / cover;
 }
 
 .picture {
-    background: url(../images/card-lot-03.jpg) no-repeat / cover;
+    background: url(../images/card-lot-03.jpg) no-repeat center / cover;
 }
 
 .card-title {
